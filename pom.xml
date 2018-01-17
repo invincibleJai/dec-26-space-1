@@ -70,7 +70,7 @@
       <artifactId>h2</artifactId>
       <scope>test</scope>
     </dependency>
-  <dependency><groupId>AAAAA</groupId><artifactId>BBBB</artifactId></dependency></dependencies>
+ </dependencies>
 
   <build>
     <plugins>
